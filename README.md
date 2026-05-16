@@ -1,4 +1,4 @@
-# 🌐 Portfolio Project — Detailed Explanation
+# 🌐 Portfolio Project 
 
 This portfolio website was created as a personal branding platform to present my profile, technical skills, and projects in a professional and modern way.
 The objective of the project is not only to display information, but also to demonstrate frontend development skills, responsive design practices, and clean UI/UX implementation.
@@ -84,8 +84,7 @@ The Skills section displays the technologies and tools I use.
 * HTML5
 * CSS3
 * JavaScript
-* React
-* Tailwind CSS
+* vercel
 * Git/GitHub
 
 ### What this section demonstrates:
@@ -137,10 +136,6 @@ Recruiters usually evaluate:
 A portfolio without projects has very little technical credibility.
 
 ---
-
-# 📞 Contact Section
-
-The Contact section allows visitors to communicate easily.
 
 ### What was included:
 
@@ -276,6 +271,13 @@ A portfolio project is often judged less by complexity and more by:
 * and clarity of presentation.
 
 That’s why details like animations, spacing, responsiveness, screenshots, and project explanations matter more than many beginners assume.
+
+---
+
+# 📞 Contact Section
+
+The Contact section allows visitors to communicate easily.
+
 
 <p align="center">
   <img src="work.gif" width="400" alt="Work GIF">
