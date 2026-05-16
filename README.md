@@ -5,6 +5,13 @@ The objective of the project is not only to display information, but also to dem
 
 ---
 
+## 📷 Screenshots
+
+![my-portfolio](my-portfolio.gif)
+---
+
+---
+
 # 🎯 Project Goal
 
 The main purpose of this portfolio is to:
